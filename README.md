@@ -7,5 +7,5 @@ Explicação do projeto -> https://steadfast-drop-a5f.notion.site/Trabalho-de-QP
 Cadastro de cursos e suas respectivas palavras-chave.
 Algoritmo de recomendação baseado na frequência das tags.
 Retorno do curso mais relevante conforme a entrada do usuário.
-🛠️ ***Tecnologias utilizadas***
+🛠️ **Tecnologias utilizadas**
   Python 🐍
