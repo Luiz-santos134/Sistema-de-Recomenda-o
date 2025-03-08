@@ -1,4 +1,4 @@
-📚 Sistema de Recomendação de Cursos
+📚 **Sistema de Recomendação**
 Este projeto é um sistema de recomendação de cursos baseado em palavras-chave. Ele utiliza um dicionário para associar cursos a diferentes tags e um algoritmo para calcular a relevância de cada curso com base nas palavras-chave inseridas pelo usuário. O curso com maior pontuação é sugerido como a melhor opção.
 
 🚀 Funcionalidades
